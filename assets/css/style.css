@@ -358,9 +358,7 @@ width: 90px;
 height: 62px;
 background: rgba(45, 60, 174, 0.53);
 }
-.width{
-   width: 100%;
-}
+
 
 
 .parabottom{
@@ -468,6 +466,9 @@ padding-top: 123px;
 }
 .ml-33{
   margin-left: 40px;
+}
+.width2{
+  width: 100%;
 }
 }
 @media (min-width:576px) {
