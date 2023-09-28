@@ -227,6 +227,7 @@ font-weight: 400;
 
 
 }
+
 .out-line{
   outline: none !important;
   border: none !important;
@@ -360,6 +361,9 @@ background: rgba(45, 60, 174, 0.53);
 }
 .width2{
   width: 100% !important;
+}
+input{
+  width: 100%;
 }
 
 
